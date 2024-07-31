@@ -1,3 +1,15 @@
+---
+title: RASABOT 
+emoji: 😄
+colorFrom: blue
+colorTo: red
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
+
+
 <!--lint disable no-literal-urls-->
 <p align="center">
   <a href="https://zir-ai.com/">
